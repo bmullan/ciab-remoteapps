@@ -1,1 +1,1 @@
-## CIAB-RemoteApps.pdf is the CIAB Remoteapps Install & Config Guide 
+## See CIAB-RemoteApps.pdf for the Install & Config Guide 
