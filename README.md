@@ -30,6 +30,6 @@ For Incus Documentation:  **https://linuxcontainers.org/incus/introduction/***
 For Incus discussions/support:  ***https://discuss.linuxcontainers.org/***   
 
 ---
-## [CIAB Remoteapps Install and Config Guide](https://github.com/bmullan/ciab-remoteapps/blob/main/CIAB%20Remoteapps%20Install%20and%20Config%20Guide.pdf)
+## [CIAB Remoteapps Install and Config Guide](https://github.com/bmullan/ciab-remoteapps/blob/main/CIAB%20Remoteapps%20Install%20and%20Config%20Guide%20v1.pdf)
 
 ## [Watch the Demo Youtube Video of CIAB Remoteapps in Action on Ubuntu 24.04](https://youtu.be/q-p3xN5Cfug?si=1zuxb_dq8i_96T_L)
