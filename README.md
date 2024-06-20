@@ -1,1 +1,1 @@
-## See CIAB-RemoteApps.pdf for the Install & Config Guide 
+## See CIAB Remoteapps Install and Config Guide.pdf
