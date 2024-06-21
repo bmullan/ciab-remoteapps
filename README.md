@@ -13,7 +13,7 @@
 - ***Share USB devices*** on Ubuntu with Windows Apps
 - Let Windows Apps ***play Audio through Ubuntu***.
 
-### *Install & Configure in approx 15-20 minutes.*
+### *Install & Configure in approx 20-25 minutes.*
 
 ### Reference Sites:
 
