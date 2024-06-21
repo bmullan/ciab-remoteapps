@@ -16,7 +16,7 @@
 ### *Install & Configure in approx 15-20 minutes.*
 
 ### Prereqs:
-***An existing LXD or Incus Windows 11 Pro or Enterprise VM***.
+*An existing LXD or Incus* ***Windows 11 Pro or Enterprise VM***.
 - *To learn how to create an LXD or Incus Windows 11 VM see Reference Sites below.*
 
 ### Reference Sites:
