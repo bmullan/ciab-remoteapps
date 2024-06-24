@@ -12,8 +12,9 @@
 - ***Share all drives on Ubuntu*** with Windows Apps **-or-** ***share just a single Directory***.
 - ***Share USB devices*** on Ubuntu with Windows Apps
 - Let Windows Apps ***play Audio through Ubuntu***.
+- etc.
 
-### *Install & Configure in approx 20-25 minutes.*
+### *Install & Configure in approx 25-30 minutes.*
 
 ### Reference Sites:
 
